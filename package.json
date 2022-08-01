@@ -1,0 +1,22 @@
+{
+  "name": "lazy-reader",
+  "version": "1.0.0",
+  "description": "read me generator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farrelldianni/lazy-reader.git"
+  },
+  "author": "farrrell dianni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farrelldianni/lazy-reader/issues"
+  },
+  "homepage": "https://github.com/farrelldianni/lazy-reader#readme",
+  "dependencies": {
+    "inquirer": "^9.0.2"
+  }
+}
