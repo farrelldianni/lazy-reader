@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/farrelldianni/lazy-reader#readme",
   "dependencies": {
-    "inquirer": "^9.0.2"
+    "inquirer": "^8.2.4"
   }
 }
