@@ -1,35 +1,35 @@
-# WUFR
+# lazy-reader
 
   #  Project Title
-     WUFR
+     lazy-reader
     
   ##  Description
-    spells for dnd
+    a easy to use read me generator 
   
   ## Technologies
-  HTML, CSS, JavaScript, jQuery
+  Node.js
   ## Installation
-  pull with git and it might be allowed
+  pulling from git hub and running the index file
   
   ## Usage
-  being lost and dumb in a dungeon 
+  for people who dont want to write out a read me 
   
   ## License
-  MIT
-  [GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  
+  [GitHub license](https://img.shields.io/badge/license--blue.svg)
   
 * [License](#license)
 
   ## License
-      This project was developed under the MIT license.
+      This project was developed under the  license.
   
   ## Contributing
-  dont be weird and we might let you 
+  please dont 
   
   ## Tests
-  test till works
+  test until break then fix 
   
   ## Questions  
   See my Github [GitHub](https://www.github.com/farrelldianni)  
-  Email me  <farrell@boss.gov>
+  Email me  <farrell.d.dianni@gmail.com>
 

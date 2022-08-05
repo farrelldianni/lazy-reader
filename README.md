@@ -63,6 +63,7 @@ Here are some guidelines to help you get started:
 You are required to submit the following for review:
 
 * A walkthrough video demonstrating the functionality of the application.
+<a href= "https://www.youtube.com/watch?v=5ZXmIbLDkkA" > video walkthrough </a>
 
 * A sample README.md file for a project repository generated using your application.
 
